@@ -21,12 +21,13 @@ I'm a passionate web developer from **Lahore, Pakistan** 🇵🇰 with hands-on 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Currency Converter](https://github.com/toqeerasim051-boop/currency-converter) | Real-time currency conversion using live exchange rates | JS, HTML, CSS, REST API |
-| [Employee Management System](https://github.com/toqeerasim051-boop/Employee-Management-System) | Manage employee records with Google Maps integration | HTML, JS, Google Maps |
-| [Student Management System](https://github.com/toqeerasim051-boop/Student-Management-System) | Role-based SMS with CRUD, attendance & grade management | PHP, MySQL |
-| [Portfolio](https://github.com/toqeerasim051-boop/touqeer-portfolio) | Personal responsive portfolio website | HTML, CSS, JS, PHP |
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [Currency Converter](https://github.com/toqeerasim051-boop/currency-converter) | Real-time currency conversion using live exchange rates | JS, HTML, CSS, REST API | — |
+| [Employee Management System](https://github.com/toqeerasim051-boop/Employee-Management-System) | Manage employee records with Google Maps integration | HTML, JS, Google Maps | — |
+| [Student Management System](https://github.com/toqeerasim051-boop/Student-Management-System) | Role-based SMS with CRUD, attendance & grade management | PHP, MySQL | — |
+| [YouTube Clone](https://github.com/toqeerasim051-boop/Youtube-Clone) | Responsive YouTube frontend clone with homepage layout, video grid, navbar & sidebar | HTML, CSS | — |
+| [Portfolio](https://github.com/toqeerasim051-boop/touqeer-portfolio) | Personal responsive portfolio website | HTML, CSS, JS, PHP, MySQL | [Live](https://touqeer-portfolio.infinityfree.me/) |
 
 ---
 
@@ -42,7 +43,7 @@ I'm a passionate web developer from **Lahore, Pakistan** 🇵🇰 with hands-on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Touqeer_Asim-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/touqeer-asim-960b06395/)
 [![Email](https://img.shields.io/badge/Email-toqeerasim051@gmail.com-red?style=flat&logo=gmail)](mailto:toqeerasim051@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Asian--Sol-green?style=flat&logo=globe)](https://asiansol.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-green?style=flat&logo=globe)](https://touqeer-portfolio.infinityfree.me/)
 
 ---
 
