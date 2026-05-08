@@ -23,12 +23,13 @@ I'm a passionate web developer from **Lahore, Pakistan** 🇵🇰 with hands-on 
 
 | Project | Description | Tech | Live |
 |---|---|---|---|
+|[NextCart Ecommerce Platform](https://github.com/toqeerasim051-boop/nexcart-ecommerce) | Full-stack eCommerce system with secure authentication, admin dashboard, product management, cart system, order workflow, and email notifications | PHP, MySQL, Tailwind CSS, JavaScript | 🔗 https://nexcartstore.infinitywebapp.com/ |
 | [Portfolio](https://github.com/toqeerasim051-boop/touqeer-portfolio) | Personal responsive portfolio website | HTML, CSS, JS, PHP, MySQL | [Live](https://touqeer-portfolio.infinityfree.me/) |
 | [Staff-Location-Tracking-System](https://github.com/toqeerasim051-boop/Employee-Management-System) | Manage employee records with Google Maps integration | HTML, JS, Google Maps | — |
 | [Student Management System](https://github.com/toqeerasim051-boop/Student-Management-System) | Role-based SMS with CRUD, attendance & grade management | PHP, MySQL | — |
 | [Currency Converter](https://github.com/toqeerasim051-boop/currency-converter) | Real-time currency conversion using live exchange rates | JS, HTML, CSS, REST API | — |
 | [YouTube Clone](https://github.com/toqeerasim051-boop/Youtube-Clone) | Responsive YouTube frontend clone with homepage layout, video grid, navbar & sidebar | HTML, CSS | — |
-| NexCart - E-Commerce Platform | Full-stack eCommerce system with secure authentication, admin dashboard, product management, cart system, order workflow, and email notifications | PHP, MySQL, Tailwind CSS, JavaScript | 🔗 https://nexcartstore.infinitywebapp.com/ |
+
 
 ---
 
