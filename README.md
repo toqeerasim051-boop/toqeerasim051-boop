@@ -71,4 +71,4 @@ I'm a passionate web developer from **Lahore, Pakistan** 🇵🇰 with hands-on 
 
 ---
 
-*Open to freelance projects and full-time opportunities. Let's build something great together!* 🚀v
+*Open to freelance projects and full-time opportunities. Let's build something great together!* 🚀
