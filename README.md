@@ -9,7 +9,7 @@ I'm a passionate web developer from **Lahore, Pakistan** 🇵🇰 with hands-on 
 ## 🛠️ Tech Stack
 
 **Frontend**  
-`HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Responsive Design`
+`HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Responsive Design` `React.js`
 
 **Backend**  
 `PHP` `MySQL` `REST APIs`
