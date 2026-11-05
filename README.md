@@ -46,7 +46,7 @@ A travel planner built with **React 18, Vite and Tailwind CSS**. Explore ~250 co
 | [NexCart Ecommerce Platform](https://github.com/toqeerasim051-boop/nexcart-ecommerce) | Full-stack eCommerce system with secure authentication, admin dashboard, product management, cart system, order workflow and email notifications | PHP, MySQL, Tailwind CSS, JavaScript | [Live Demo](https://nexcartstore.infinityfreeapp.com/) |
 | [Portfolio](https://github.com/toqeerasim051-boop/touqeer-portfolio) | Personal responsive portfolio website | HTML, CSS, JS, PHP, MySQL | [Live Demo](https://touqeer-portfolio.infinityfree.me/) |
 | [Currency Converter](https://github.com/toqeerasim051-boop/currency-converter) | Real-time currency conversion using live exchange rates | JS, HTML, CSS, REST API | — |
-| [Staff Location Tracking System](https://github.com/toqeerasim051-boop/Employee-Management-System) | Manage employee records with Google Maps integration | HTML, JS, Google Maps API | — |
+| [Staff Location Tracking System](https://github.com/toqeerasim051-boop/Staff-Location-Tracking-System.git) | Manage employee records with Google Maps integration | HTML, JS, Google Maps API | — |
 | [Student Management System](https://github.com/toqeerasim051-boop/Student-Management-System) | Role-based SMS with CRUD, attendance and grade management | PHP, MySQL | — |
 | [YouTube Clone](https://github.com/toqeerasim051-boop/Youtube-Clone) | Responsive YouTube frontend clone with homepage layout, video grid, navbar and sidebar | HTML, CSS | — |
 
